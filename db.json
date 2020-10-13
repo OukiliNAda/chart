@@ -1,10 +1,27 @@
-{
-"total_count": 4070046,
-"incomplete_results": false,
-"items": [
-{
-"id": 297165998,
-"node_id": "MDEwOlJlcG9zaXRvcnkyOTcxNjU5OTg=",
-"name": "duf"
-}]
-}
+
+[
+  {
+    "x": "25",
+    "y": "60",
+    "z": "40",
+    "name": "Nike"
+  },
+  {
+    "x": "60",
+    "y": "85",
+    "z": "90",
+    "name": "Adidas"
+  },
+  {
+    "x": "50",
+    "y": "80",
+    "z": "40",
+    "name": "Puma"
+  },
+  {
+    "x": "65",
+    "y": "90",
+    "z": "40",
+    "name": "Fila"
+  }
+]
