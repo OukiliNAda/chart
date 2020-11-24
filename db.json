@@ -56,154 +56,38 @@
    ],
    "positions":[
       {
-         "carBlock":"Off",
-         "doorClosed":"Off",
-         "gpsDate":"2020-11-24T08:40:24.000+01:00",
-         "input1":"Off",
-         "input2":"On",
-         "input3":"On",
-         "input4":"On",
-         "runningtime":"1764h06",
-         "receptionDate":"2020-11-24T08:40:25.232+01:00",
-         "heading":"190",
-         "cumulatedDistance":"108495.0",
-         "speed":"0",
-         "label":"Suivi",
-         "sat":11,
-         "eventType":0,
-         "trigger":1,
-         "position":{
-            "address":{
-               "country":"MA",
-               "zip":"87272",
-               "city":"انشادن",
-               "street":"-",
-               "number":"",
-               "countryCode":"MA"
-            },
-            "coordType":1,
-            "latitude":30.127253,
-            "longitude":-9.553275
-         },
-         "entityStatus":"2",
-         "advancedSensors":[
-            {
-               "name":"Contact",
-               "value":"On"
-            },
-            {
-               "name":"Réservoir Secondaire ",
-               "value":"473.32 L"
-            },
-            {
-               "name":"Réservoir Principal",
-               "value":"272.18 L"
-            },
-            {
-               "name":"Capot",
-               "value":"Fermé(e)"
-            }
-         ]
+        "latitude":30.127253,
+        "longitude":-9.553275
       },
       {
-         "carBlock":"Off",
-         "doorClosed":"Off",
-         "gpsDate":"2020-11-24T08:37:24.000+01:00",
-         "input1":"Off",
-         "input2":"On",
-         "input3":"On",
-         "input4":"On",
-         "runningtime":"1764h03",
-         "receptionDate":"2020-11-24T08:37:25.263+01:00",
-         "heading":"190",
-         "cumulatedDistance":"108495.0",
-         "speed":"0",
-         "label":"Suivi",
-         "sat":11,
-         "eventType":0,
-         "trigger":1,
-         "position":{
-            "address":{
-               "country":"MA",
-               "zip":"87272",
-               "city":"انشادن",
-               "street":"-",
-               "number":"",
-               "countryCode":"MA"
-            },
-            "coordType":1,
-            "latitude":30.127268,
-            "longitude":-9.553266
-         },
-         "entityStatus":"2",
-         "advancedSensors":[
-            {
-               "name":"Contact",
-               "value":"On"
-            },
-            {
-               "name":"Réservoir Secondaire ",
-               "value":"473.32 L"
-            },
-            {
-               "name":"Réservoir Principal",
-               "value":"275.72 L"
-            },
-            {
-               "name":"Capot",
-               "value":"Fermé(e)"
-            }
-         ]
+        "latitude":30.127268,
+         "longitude":-9.553266
+       },
+      {
+         "latitude":30.127291,
+         "longitude":-9.55325
       },
       {
-         "carBlock":"Off",
-         "doorClosed":"Off",
-         "gpsDate":"2020-11-24T08:34:24.000+01:00",
-         "input1":"Off",
-         "input2":"On",
-         "input3":"On",
-         "input4":"On",
-         "runningtime":"1764h00",
-         "receptionDate":"2020-11-24T08:34:25.405+01:00",
-         "heading":"190",
-         "cumulatedDistance":"108495.0",
-         "speed":"0",
-         "label":"Suivi",
-         "sat":11,
-         "eventType":0,
-         "trigger":1,
-         "position":{
-            "address":{
-               "country":"MA",
-               "zip":"87272",
-               "city":"انشادن",
-               "street":"-",
-               "number":"",
-               "countryCode":"MA"
-            },
-            "coordType":1,
-            "latitude":30.127291,
-            "longitude":-9.55325
-         },
-         "entityStatus":"2",
-         "advancedSensors":[
-            {
-               "name":"Contact",
-               "value":"On"
-            },
-            {
-               "name":"Réservoir Secondaire ",
-               "value":"473.32 L"
-            },
-            {
-               "name":"Réservoir Principal",
-               "value":"272.18 L"
-            },
-            {
-               "name":"Capot",
-               "value":"Fermé(e)"
-            }
-         ]
+          "latitude": 30.127353,
+          "longitude": -9.553228
+      },
+      {
+          "latitude": 30.127353,
+          "longitude": -9.553228
+      }
+      ,{
+          "latitude": 30.127356,
+          "longitude": -9.553228
+      },
+      {
+          "latitude": 30.127297,
+            "longitude": -9.553113
+      },
+      {
+         "latitude": 30.127178,
+          "longitude": -9.553228
+      }
+     ]
       }
 
 ]}
