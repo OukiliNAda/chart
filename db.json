@@ -70,15 +70,16 @@
       {
           "latitude": 30.127353,
           "longitude": -9.553228
-      },
-      {
-          "latitude": 30.127353,
-          "longitude": -9.553228
       }
       ,{
           "latitude": 30.127356,
           "longitude": -9.553228
       },
+      {
+          "latitude": 30.127601,
+           "longitude": -9.553106
+      }
+      ,
       {
           "latitude": 30.127297,
             "longitude": -9.553113
@@ -86,6 +87,14 @@
       {
          "latitude": 30.127178,
           "longitude": -9.553228
+      },
+      {
+          "latitude": 30.127215,
+           "longitude": -9.553265
+      },
+      {
+         "latitude": 30.127208,
+          "longitude": -9.55326
       }
      ]
       }
